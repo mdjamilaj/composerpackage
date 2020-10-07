@@ -1,0 +1,17 @@
+{
+    "name": "shaon/composerpackage",
+    "description": "this is simple rendom code genaretor",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mdjamilaj",
+            "email": "mdjamilaj1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
